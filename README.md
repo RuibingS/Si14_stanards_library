@@ -9,10 +9,10 @@ Bruker `.library` format to NIST MSP format with spectral entropy annotation.
 
 | File | Description |
 |------|-------------|
-| `library/Si14_library.msp` | Final NIST MSP file |
 | `library/Si14_library.library` | Original Bruker library file |
-| `library/Si14_library_MS.library` | Original Bruker library file |
-| `library/Si14_library_MS2.library` | Final NIST MSP file |
+| `library/Si14_library.msp` | Final NIST MSP file |
+| `library/Si14_library_MS2.library` | Original Bruker library file |
+| `library/Si14_library_MS2.msp` | Final NIST MSP file |
 
 ## Instrument
 
